@@ -218,23 +218,22 @@ join (
 	
 *****LISTS THE COUNTS OF FACILITIES PER MEMBER*****
 
-select t1.memid, Member, count(Facility) as FacilityUsage
+select t1.memid, Member, sum(slots) as 'Total Booking'
 
 from (
-	SELECT memid,facid 
+	SELECT memid,facid, slots 
     FROM `Bookings` 
-	where memid > 0
-	order by memid, facid) as t1
+	where memid > 0) as t1
 join (
     select memid, concat_ws(', ', surname, firstname) as Member
     from Members) as t2
 	on t1.memid = t2.memid
 join (
-    select facid, name as Facility
+    select facid 
     from Facilities) as t3
 	on t1.facid = t3.facid
 group by Member
-order by FacilityUsage
+order by 'Total Booking'
 
 
 /* Q13: Find the facilities usage by month, but not guests */
