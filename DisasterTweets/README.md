@@ -4,5 +4,11 @@
 
 **Goal**: Come up with a Machine Learning model that can predict if the tweet is about a real disaster. 
 
+# Data Pre-Processing
+
+# Exploratory Analysis
+
+# Feature Engineering and Supervised Learning
+
 # Data
 > * [Kaggle](https://www.kaggle.com/c/nlp-getting-started/data)
