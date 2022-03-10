@@ -5,6 +5,7 @@
 **Goal**: Come up with a Machine Learning model that can predict if the tweet is about a real disaster. 
 
 # Data Pre-Processing
+*The data consisted of these columns:
 
 # Exploratory Analysis
 
