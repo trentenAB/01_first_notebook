@@ -2,17 +2,18 @@
 # Natural Language Processing with Disaster Tweets
 *Twitter is one of the main sources of news for many people with a smartphone including in times of tragedy. This is not only due to stories from large news companies, but from individuals who are sharing news headlines or commnenting on a situation they are observing in real time. Becuase of this, relief organizations and new companies are interested in auto-monitoring Twitter to get the latest updates straight from first-hand accounts. With Machine Learning, sifting through thousands of tweets in mere seconds becomes possible. The problem is, as with all Machine Learning, machines do not understand context like humans and therefore have to be trained to do so. Becuase this is about tweets that consist of text, this is where we'll implement Natural Language Processing (NLP), the ability a machine can understand human language as it is spoken and written.*     
 
-# **Goal**: 
-Come up with a Machine Learning model that can predict if the tweet is about a real disaster. 
+**Goal**: Come up with a Machine Learning model that can predict if the tweet is about a real disaster. 
 
 # Data Pre-Processing
 The data features:
 
 ![first look](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/FirstHead.png)
 
-The Location and ID columns were subsequently dropped. The **Keyword** and **Text** columns were cleaned 
+The Location and ID columns were subsequently dropped. 
 
-![first look at keywords](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/keyword%20non-word%20ch..png)
+The **Keyword** and **Text** columns were  then cleaned 
+
+![first look at keywords](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/keyword%20non-word%20ch..png) ![cleaned keyword](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/text%20prep.png)
 
 # Exploratory Analysis
 
