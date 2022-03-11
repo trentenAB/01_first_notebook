@@ -20,7 +20,7 @@ The `Keyword` and `Text` columns were then cleaned.
 # Exploratory Analysis
 ![D vs nD counts](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/counts%20D%20vs%20nD.png)
 
-![D distribution](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/Tweet%20length%20D.png) ![nD dist.](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/Tweet%20length%20nD.png)
+![D distribution](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/Tweet%20length%20D.png)![nD dist.](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/Tweet%20length%20nD.png)
 
 ![top keywords](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/common%20keyword%20bar.png)
 
