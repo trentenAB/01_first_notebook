@@ -11,7 +11,7 @@ The data features:
 
 The `Location` and `ID` columns were subsequently dropped. 
 
-The `Keyword` and `Text` columns were  then cleaned 
+The `Keyword` and `Text` columns were then cleaned. 
 
 ![cleaned keywords](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/keyword%20non-word%20ch..png) 
 
