@@ -5,9 +5,11 @@
 **Goal**: Come up with a Machine Learning model that can predict if the tweet is about a real disaster. 
 
 # Data Pre-Processing
-*The data consisted of these columns:*
+The data features:
 
-![df.head()](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/FirstHead.png)
+![df.head](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/FirstHead.png)
+
+The Location and ID were subsequently dropped. The **Keyword** and  
 
 # Exploratory Analysis
 
