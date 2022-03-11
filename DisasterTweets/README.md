@@ -24,6 +24,8 @@ The `Keyword` and `Text` columns were then cleaned.
 
 ![top keywords](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/common%20keyword%20bar.png)
 
+![square wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/square%20wc.png)
+
 ![fire wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/fire%20wc.png)
 # Feature Engineering and Supervised Learning
 
