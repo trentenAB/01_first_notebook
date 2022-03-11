@@ -7,9 +7,11 @@
 # Data Pre-Processing
 The data features:
 
-![df.head](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/FirstHead.png)
+![first look](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/FirstHead.png)
 
-The Location and ID were subsequently dropped. The **Keyword** and  
+The Location and ID were subsequently dropped. The **Keyword** and **Text** columns were cleaned 
+
+![first look at keywords](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/keyword%20non-word%20ch..png)
 
 # Exploratory Analysis
 
