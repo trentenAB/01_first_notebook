@@ -9,7 +9,7 @@ The data features:
 
 ![first look](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/FirstHead.png)
 
-The <code>Location<code> and ID columns were subsequently dropped. 
+The <code>Location and ID columns were subsequently dropped. 
 
 The **Keyword** and **Text** columns were  then cleaned 
 
