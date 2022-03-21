@@ -18,6 +18,8 @@ The `Keyword` and `Text` columns were then cleaned.
 ![cleaned text](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/text%20prep.png)
 
 # Exploratory Analysis
+Being that this was strictly a Text Classification project, EDA was not necessary. Nonetheless, I made visuals  
+
 ![D vs nD counts](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/counts%20D%20vs%20nD.png)
 
 [//]: < ![D distribution](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/Tweet%20length%20D.png)![nD dist.](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/Tweet%20length%20nD.png) >
