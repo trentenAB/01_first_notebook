@@ -30,7 +30,7 @@ The amount of each type of Tweet is relatively level and is not overly skewed. T
 
 [//]: < ![square wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/square%20wc.png) >
 
-[//]: < ![fire wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/fire%20wc.png) >
+![fire wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/fire%20wc.png) 
 # Feature Engineering and Supervised Learning
 
 # Data
