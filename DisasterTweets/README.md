@@ -28,7 +28,7 @@ The amount of each type of Tweet is relatively level and is not overly skewed. T
 
 [//]: < ![top keywords](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/common%20keyword%20bar.png) >
 
-[//]: < ![square wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/square%20wc.png) >
+![square wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/square%20wc.png)
 
 ![fire wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/fire%20wc.png) 
 # Feature Engineering and Supervised Learning
