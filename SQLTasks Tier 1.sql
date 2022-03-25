@@ -1,13 +1,5 @@
-/* Welcome to the SQL mini project. You will carry out this project partly in
-the PHPMyAdmin interface, and partly in Jupyter via a Python connection.
-
-This is Tier 1 of the case study, which means that there'll be more guidance for you about how to 
-setup your local SQLite connection in PART 2 of the case study. 
-
-The questions in the case study are exactly the same as with Tier 2. 
-
-PART 1: PHPMyAdmin
-You will complete questions 1-9 below in the PHPMyAdmin interface. 
+/* 
+PART 1: PHPMyAdmin 
 Log in by pasting the following URL into your browser, and
 using the following Username and Password:
 
