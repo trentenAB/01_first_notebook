@@ -34,8 +34,11 @@ The amount of each type of Tweet is relatively level and is not overly skewed. T
 
 # Feature Engineering and Supervised Learning
 CountVectorizer and TfidVectorizer from Sklearn's Feature Extraction Text module used for the features
+
+#### CountVectorizer
 ![CountVect](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/CountVect_Features.png)
 
+#### TfidVectorizer
 ![TfidVect](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/TfidVect_Features.png)
 
 # Data
