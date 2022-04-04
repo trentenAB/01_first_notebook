@@ -33,6 +33,10 @@ The amount of each type of Tweet is relatively level and is not overly skewed. T
 [//]: < ![fire wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/fire%20wc.png) >
 
 # Feature Engineering and Supervised Learning
+CountVectorizer and TfidVectorizer from Sklearn's Feature Extraction Text module used for the features
+![CountVect](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/CountVect_Features.png)
+
+![TfidVect](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/TfidVect_Features.png)
 
 # Data
 > * [Kaggle](https://www.kaggle.com/c/nlp-getting-started/data)
