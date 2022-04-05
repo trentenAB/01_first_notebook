@@ -42,8 +42,10 @@ CountVectorizer and TfidVectorizer from Sklearn's Feature Extraction Text module
 ![TfidVect](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/TfidVect_Features.png)
 
 # Supervised Learning
-LogisticRegression outperformed RandomForest and SupportVectorMachine 
+LogisticRegression outperformed RandomForest and SupportVectorMachine
+
 [//]: < ![algo scores df](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/algorithm%20scores.png) >
+
 ![algo scores graph](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/Algo_Comparison.png)
 # Data
 > * [Kaggle](https://www.kaggle.com/c/nlp-getting-started/data)
