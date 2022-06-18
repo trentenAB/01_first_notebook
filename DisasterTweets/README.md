@@ -41,7 +41,7 @@ CountVectorizer and TfidVectorizer from Sklearn's Feature Extraction Text module
 ### TfidVectorizer
 ![TfidVect](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/TfidVect_Features.png)
 
-# Supervised Learning
+# Modeling
 LogisticRegression outperformed RandomForest and SupportVectorMachine by a slim margin.
 
 [//]: < ![algo scores df](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/algorithm%20scores.png) >
