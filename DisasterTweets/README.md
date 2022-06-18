@@ -4,7 +4,7 @@
 
 **Goal**: Come up with a Machine Learning model that can predict if the tweet pertains to a real disaster. 
 
-# Data Pre-Processing
+# Data Cleaning
 The data features:
 
 ![first look](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/FirstHead.png)
@@ -32,7 +32,7 @@ The amount of each type of Tweet is relatively level and is not overly skewed. T
 
 [//]: < ![fire wc](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/fire%20wc.png) >
 
-# Feature Engineering 
+# Pre-Processing 
 CountVectorizer and TfidVectorizer from Sklearn's Feature Extraction Text module was used for the features.
 
 ### CountVectorizer
