@@ -4,6 +4,9 @@
 
 **Goal**: Come up with a Machine Learning model that can predict if the tweet pertains to a real disaster. 
 
+# Data
+> * [Kaggle](https://www.kaggle.com/c/nlp-getting-started/data)
+
 # Data Cleaning
 The data features:
 
@@ -47,5 +50,3 @@ LogisticRegression outperformed RandomForest and SupportVectorMachine by a slim 
 [//]: < ![algo scores df](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/algorithm%20scores.png) >
 
 ![algo scores graph](https://github.com/trentenAB/SpringBoard/blob/main/DisasterTweets/images/Algo_Comparison.png)
-# Data
-> * [Kaggle](https://www.kaggle.com/c/nlp-getting-started/data)
